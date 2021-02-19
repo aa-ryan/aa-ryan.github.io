@@ -9,7 +9,7 @@ edus:
     - title:   "Dayananda Sagar Institutions"
       image: "/images/logo.png"
       comment: "-- Bachelor of Engineering, Computer Science and Technology<br/>"
-	
+
 ---
 
 ## Education
