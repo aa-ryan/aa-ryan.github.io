@@ -1,2 +1,2 @@
 # Website
-[Link](aa-ryan.github.io)
+[aa-ryan](aa-ryan.github.io)
