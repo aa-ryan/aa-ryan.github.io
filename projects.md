@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Others
-permalink: /Projects/
-
+permalink: /projects/
 
 ---
 
+## TEST
