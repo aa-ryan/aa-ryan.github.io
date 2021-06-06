@@ -6,4 +6,4 @@ permalink: /projects/
 ---
 
 ## Will update soon..check in CV or 
-![projects](https://github.com/aa-ryan/Projects)
+[projects](https://github.com/aa-ryan/Projects)
