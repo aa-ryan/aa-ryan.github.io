@@ -1,6 +1,5 @@
 ---
 layout: page
 title: CV
-permalink: /cv/
+permalink: /cv/CV.pdf
 ---
-{% include embedpdf.html source="http://aa-ryan.github.io/cv/CV.pdf" width=100 height=800 %}
