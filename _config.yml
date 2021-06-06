@@ -1,11 +1,11 @@
 title: Aryan
 description: Homepage 
-sourcecode: "http://aryan-dev007.github.io"
+sourcecode: "http://aa-ryan.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "https://aryan-dev007.github.io"     # the base hostname & protocol for your site
+url: "https://aa-ryan.github.io"     # the base hostname & protocol for your site
 baseurl: ""                           # the subpath of your site, e.g. /blog
 
 author:
