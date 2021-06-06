@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /
+
 ---
 
 {% include image.html url="images/mine.jpg" caption="" width="400px" align="right" %}
