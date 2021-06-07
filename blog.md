@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Repos
+title: Blog
 permalink: /blog/
 ---
-I am currently exploring the fields of Computer Science.
+
+* Nothing here, will update soon.
