@@ -7,7 +7,7 @@ permalink: /projects/
 
 ## Python
 
-- [Python Projects Github](https://github.com/aa-ryan/Projects/Python)
+- [Python Projects Github](https://github.com/aa-ryan/Projects/tree/master/Python)
   * Youtube Downloader
   * Video Player
   * Screen Recorder
@@ -18,17 +18,17 @@ permalink: /projects/
   
 ## Java
 
-- [Java Projects Github](https://github.com/aa-ryan/Projects/Java)
+- [Java Projects Github](https://github.com/aa-ryan/Projects/tree/master/Java)
   * Flappy Bird
 
   
 ## Rust
 
-- [Rust Projects Github](https://github.com/aa-ryan/Projects/Rust)
+- [Rust Projects Github](https://github.com/aa-ryan/Projects/tree/master/Rust)
   * Port Sniffer
 
   
 ## C
 
-- [C Projects Github](https://github.com/aa-ryan/Projects/C)
+- [C Projects Github](https://github.com/aa-ryan/Projects/tree/master/C)
     * CopyCommand
