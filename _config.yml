@@ -22,14 +22,14 @@ highlighter: rouge
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-    provider: 'google'
+    provider: false
     statcounter:
         sc_project  :
         sc_security :
         sc_invisible: 1
         sc_text     : 2
     google:
-        tracking_id: 'UA-199108585-1'
+        tracking_id: 
     getclicky:
       site_id:
     mixpanel:
@@ -57,4 +57,5 @@ comments:
       colorscheme: dark
 
 # theme: jekyll-theme-time-machine
+# google-analytics
 google_analytics: UA-199108585-1
