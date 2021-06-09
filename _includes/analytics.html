@@ -1,18 +1,28 @@
-{% if site.analytics.provider and page.analytics != false %}
+<!-- {% if site.analytics.provider and page.analytics != false %} -->
 
-{% case site.analytics.provider %}
-{% when "google" %}
-  {% include analytics-providers/google %}
-{% when "getclicky" %}
-  {% include analytics-providers/getclicky %}
-{% when "mixpanel" %}
-  {% include analytics-providers/mixpanel %}
-{% when "piwik" %}
-  {% include analytics-providers/piwik %}
-{% when "statcounter" %}
-  {% include analytics-providers/statcounter %}
-{% when "custom" %}
-  {% include custom/analytics %}
-{% endcase %}
+<!-- {% case site.analytics.provider %} -->
+<!-- {% when "google" %} -->
+<!--   {% include analytics-providers/google %} -->
+<!-- {% when "getclicky" %} -->
+<!--   {% include analytics-providers/getclicky %} -->
+<!-- {% when "mixpanel" %} -->
+<!--   {% include analytics-providers/mixpanel %} -->
+<!-- {% when "piwik" %} -->
+<!--   {% include analytics-providers/piwik %} -->
+<!-- {% when "statcounter" %} -->
+<!--   {% include analytics-providers/statcounter %} -->
+<!-- {% when "custom" %} -->
+<!--   {% include custom/analytics %} -->
+<!-- {% endcase %} -->
 
-{% endif %}
+<!-- {% endif %} -->
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.google_analytics }}');
+</script>

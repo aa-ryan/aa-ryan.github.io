@@ -15,4 +15,8 @@
     <link rel="icon" href="/images/web_logo.jpg" type="image/jpg">
     <link rel="shortcut icon" href="/images/web_logo.jpg" type="image/jpg">
 
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
 </head>
