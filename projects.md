@@ -20,6 +20,7 @@ permalink: /projects/
 
 - [Java Projects Github](https://github.com/aa-ryan/Projects/tree/master/Java)
   * Flappy Bird
+  * Ball Simulation
 
   
 ## Rust
