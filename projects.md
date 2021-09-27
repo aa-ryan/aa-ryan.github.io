@@ -34,3 +34,5 @@ permalink: /projects/
 
 - [C Projects Github](https://github.com/aa-ryan/Projects/tree/master/C)
     * CopyCommand
+    * ForkClone
+    * PipeCopy
