@@ -14,6 +14,7 @@ permalink: /projects/
   * QR-Code Generator
   * PDF to Audio
   * Basic Calculator GUI
+  * [learning-smartContracts](https://github.com/aa-ryan/learning-smartContracts)
 
   
 ## Java
