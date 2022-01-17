@@ -8,6 +8,7 @@ permalink: /projects/
 ## Python
 
 - [Python Projects Github](https://github.com/aa-ryan/Projects/tree/master/Python)
+  * Predictive-Crime-Analysis [Group_Project](https://github.com/aa-ryan/predictive-crime-analysis)
   * Youtube Downloader
   * Video Player
   * Screen Recorder
