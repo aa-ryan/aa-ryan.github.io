@@ -14,4 +14,4 @@ I’m Aryan (Yep! No surname) currently an undergraduate (third-year) student at
 
 Github: [aa-ryan](https://github.com/aa-ryan) <br/>
 
-Email: aryansinha6363@gmail.com
+Email: aryan.2023y@gmail.com
