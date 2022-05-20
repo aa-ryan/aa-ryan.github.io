@@ -8,6 +8,7 @@ permalink: /projects/
 ## Python
 
 - [Python Projects Github](https://github.com/aa-ryan/Projects/tree/master/Python)
+  * Simplified Data Sourcing Hackpions 4.0 [EY GDS](https://github.com/aa-ryan/Hackpions-4.0)
   * Graphical User Authentication [Group_Project](https://github.com/AdityaRaj1440/SIH_GraphicalPassword)
   * Predictive-Crime-Analysis [Group_Project](https://github.com/aa-ryan/predictive-crime-analysis)
   * Nvidia-deep-learning-institute [ Example and Project based course ](https://github.com/aa-ryan/nvidia-deep-learning-institute)
