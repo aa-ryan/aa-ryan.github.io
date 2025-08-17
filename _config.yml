@@ -56,6 +56,12 @@ comments:
       width: 580
       colorscheme: dark
 
+collections:
+  detections:
+    output: true
+    permalink: /detections/:name/
+
+
 # theme: jekyll-theme-time-machine
 # google-analytics
 google_analytics: UA-199108585-1
