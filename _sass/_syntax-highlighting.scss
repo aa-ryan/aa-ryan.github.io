@@ -62,3 +62,12 @@
     .vi    { color: #008080 } // Name.Variable.Instance
     .il    { color: #099 } // Literal.Number.Integer.Long
 }
+/* Remove background for YAML code blocks */
+.highlight.language-yaml {
+  background: transparent !important;
+}
+
+.highlight.language-yml {
+  background: transparent !important;
+}
+
