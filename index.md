@@ -11,4 +11,4 @@ Hi, I’m Aryan 👋 — Cyber Defense Engineer specializing in **Threat Detecti
 Explore my work:
 
 - [Introduction](introduction.md)
-- [Detections](detections.md)
+- [Research](detections.md)
