@@ -4,14 +4,14 @@
 # - title: "Research"
 #   href: "/research/"
 
-- title: "Experience"
-  href: "/experience/"
+- title: "Introduction"
+  href: "/introduction/"
 
-- title: "CV"
-  href: "/cv/CV.pdf"
+- title: "Detections"
+  href: "/detections/"
 
-- title: "Projects"
-  href: "/projects/"
+# - title: "Projects"
+#   href: "/projects/"
 
-- title: "Blog"
-  href: "/blog/"
+# - title: "Blog"
+#   href: "/blog/"

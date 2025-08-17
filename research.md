@@ -7,7 +7,7 @@ title: Research
 
 
 
-## Publications
+## Detections
 
 Will upload soon...
 

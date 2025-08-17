@@ -1,17 +1,14 @@
 ---
-layout: page
-title: About
+layout: default
+title: "Home"
 permalink: /
-
 ---
 
-{% include image.html url="images/mine.jpg" caption="" width="400px" align="right" %}
+# Welcome to My Portfolio
 
-I’m Aryan (Yep! No surname) currently an undergraduate (final-year) student at School of Computer Science of Dayananda Sagar Institutions.
+Hi, I’m Aryan 👋 — Cyber Defense Engineer specializing in **Threat Detection, Incident Response, and Security Engineering**.
 
+Explore my work:
 
-## Contact
-
-Github: [aa-ryan](https://github.com/aa-ryan) <br/>
-
-Email: mail9aryan@gmail.com
+- [Introduction](introduction.md)
+- [Detections](detections.md)
