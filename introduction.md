@@ -17,3 +17,6 @@ My journey so far:
 
 Beyond security, I love exploring **machine learning applications**, mentoring peers, and experimenting with **Red vs Blue tradecraft** to sharpen detection strategies.  
 
+## 📄 Curriculum Vitae
+You can view or download my CV here:
+[CV](CV/cv.pdf){:target="_blank"}
